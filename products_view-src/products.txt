@@ -1,0 +1,53 @@
+# Product 1
+product_id: 1
+Name: placeholder
+Description: placeholder
+Prices: placeholder
+
+# Product 2
+product_id: 2
+Name: placeholder
+Description: placeholder
+Prices: placeholder
+
+# Product 3
+product_id: 3
+Name: placeholder
+Description: placeholder
+Prices: placeholder
+
+# Product 4
+product_id: 4
+Name: placeholder
+Description: placeholder
+Prices: placeholder
+
+# Product 5
+product_id: 5
+Name: placeholder
+Description: placeholder
+Prices: placeholder
+
+# Product 6
+product_id: 6
+Name: placeholder
+Description: placeholder
+Prices: placeholder
+
+# Product 7
+product_id: 7
+Name: placeholder
+Description: placeholder
+Prices: placeholder
+
+# Product 8
+product_id: 8
+Name: placeholder
+Description: placeholder
+Prices: placeholder
+
+# Product 9
+product_id: 9
+Name: placeholder
+Description: placeholder
+Prices: placeholder
